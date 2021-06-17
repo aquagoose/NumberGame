@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Number Game!</string>
+    <string name="welcome_text">Welcome to the Number Game! Type your guess, then tap guess!</string>
+    <string name="input_hint">Enter your guess..</string>
+    <string name="button_guess">Guess!</string>
+</resources>
